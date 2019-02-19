@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4207424547",
+    "hash" : "0",
     "id" : "A9CE3B88",
     "lastKnownWriteTime" : 1549975968,
     "last_content_update" : 1549975968,
-    "path" : "F:/blog/test4/content/post/2019-02-12-r曽燕婷.Rmd",
+    "path" : "F:/MyBlog/content/post/2019-02-12-r曽燕婷.Rmd",
     "project_path" : "content/post/2019-02-12-r曽燕婷.Rmd",
     "properties" : {
+        "cursorPosition" : "7,3",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
